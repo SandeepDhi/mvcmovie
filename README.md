@@ -56,10 +56,12 @@ Add-Migration InitialCreate
 Update-Database
 show create, delete etc files.
 Add a movie release dates (movies/index.cshtml)
+3:17
 
 Part 5
 work with database
 add update database
+4:16
 
 Part 6
 Controller methods and views
