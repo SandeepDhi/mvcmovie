@@ -8,7 +8,7 @@ Add a contoler
 Represent a Default action
 Output 
 This is sandeep defalut action
-0400
+12:05:1:30
 
 Included Two parameters 
 name and NumTimes
@@ -20,6 +20,7 @@ Part 3
 Add a view
 Index page of hellowolrd
 tested.. good
+06:50
 
 Add a priavcy Policy 
 Output is Movie app
@@ -81,3 +82,19 @@ Rating prperty in the field
 run code in index.cshtml
 30-05-2024 3:03
 but i got error and it's not working
+
+Part 9 
+Add a Validation
+change title and password leanth 
+Create chnages in these menu
+change release date
+30-05-2024 3:55
+
+
+See data.cs
+where the all data displayed
+movies,gener,rate
+06:06:2024 2:54
+
+
+
